@@ -16,3 +16,6 @@ __pycache__/
 
 data/users.csv
 
+# Streamlit security
+.streamlit/credentials.toml
+.streamlit/secrets.toml
