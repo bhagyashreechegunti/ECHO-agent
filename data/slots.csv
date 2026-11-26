@@ -1,0 +1,266 @@
+slot_id,section_id,day,hour,kind,lab_id,staff_id,subject
+SL001,S03,Tue,10,lab,L3,T2,AI Systems Lab
+SL002,S04,Mon,9,lab,L8,T4,Web Lab
+SL003,S07,Wed,11,lab,L9,T7,Security Lab
+SL004,S02,Wed,14,lab,L1,T3,DB Lab
+SL005,S05,Wed,15,lab,L2,T6,Networks Lab
+SL006,S01,Thu,9,lab,L5,T1,OS Lab
+SL007,S06,Thu,15,lab,L7,T4,Web Lab
+SL008,S01,Mon,11,lab,L1,T1,OS Lab
+SL009,S02,Mon,13,lab,L2,T2,AI Systems Lab
+SL010,S03,Mon,14,lab,L3,T6,Networks Lab
+SL011,S05,Mon,15,lab,L8,T4,Web Lab
+SL012,S06,Mon,16,lab,L9,T7,Security Lab
+SL013,S08,Mon,10,lab,L6,T8,Mobile Lab
+SL014,S09,Mon,12,lab,L4,T5,Algo Lab
+SL015,S10,Mon,15,lab,L7,T3,DB Lab
+SL016,S01,Tue,8,lab,L7,T3,DB Lab
+SL017,S02,Tue,9,lab,L5,T5,Algo Lab
+SL018,S04,Tue,11,lab,L1,T1,OS Lab
+SL019,S05,Tue,13,lab,L4,T6,Networks Lab
+SL020,S06,Tue,14,lab,L6,T4,Web Lab
+SL021,S07,Tue,15,lab,L2,T2,AI Systems Lab
+SL022,S08,Tue,16,lab,L3,T7,Security Lab
+SL023,S09,Tue,9,lab,L6,T8,Mobile Lab
+SL024,S01,Wed,10,lab,L3,T6,Networks Lab
+SL025,S03,Wed,13,lab,L4,T5,Algo Lab
+SL026,S04,Wed,16,lab,L5,T1,OS Lab
+SL027,S06,Wed,8,lab,L9,T7,Security Lab
+SL028,S08,Wed,12,lab,L7,T3,DB Lab
+SL029,S09,Wed,14,lab,L6,T2,AI Systems Lab
+SL030,S10,Wed,10,lab,L1,T8,Mobile Lab
+SL031,S02,Thu,11,lab,L3,T6,Networks Lab
+SL032,S03,Thu,13,lab,L2,T2,AI Systems Lab
+SL033,S04,Thu,14,lab,L1,T1,OS Lab
+SL034,S05,Thu,16,lab,L5,T5,Algo Lab
+SL035,S07,Thu,8,lab,L4,T8,Mobile Lab
+SL036,S08,Thu,14,lab,L6,T4,Web Lab
+SL037,S09,Thu,16,lab,L7,T7,Security Lab
+SL038,S10,Thu,9,lab,L8,T3,DB Lab
+SL039,S01,Fri,14,lab,L2,T2,AI Systems Lab
+SL040,S02,Fri,10,lab,L4,T6,Networks Lab
+SL041,S03,Fri,15,lab,L7,T3,DB Lab
+SL042,S04,Fri,8,lab,L6,T8,Mobile Lab
+SL043,S05,Fri,9,lab,L1,T1,OS Lab
+SL044,S06,Fri,11,lab,L3,T5,Algo Lab
+SL045,S07,Fri,13,lab,L5,T4,Web Lab
+SL046,S08,Fri,15,lab,L2,T2,AI Systems Lab
+SL047,S09,Fri,10,lab,L1,T1,OS Lab
+SL048,S10,Fri,12,lab,L6,T7,Security Lab
+SL049,S01,Mon,9,theory,,T8,Human Computer Interaction
+SL050,S01,Mon,10,theory,,T1,Computer Architecture
+SL051,S01,Mon,13,theory,,T8,Mobile App Dev
+SL052,S01,Mon,15,theory,,T6,Distributed Systems
+SL053,S01,Mon,16,theory,,T3,Big Data Analytics
+SL054,S01,Tue,10,theory,,T3,Database Systems
+SL055,S01,Tue,13,theory,,T7,Security Engineering
+SL056,S01,Tue,14,theory,,T7,Security Engineering
+SL057,S01,Wed,8,theory,,T4,Web Technologies
+SL058,S01,Wed,9,theory,,T1,Computer Architecture
+SL059,S01,Wed,11,theory,,T1,Computer Architecture
+SL060,S01,Wed,13,theory,,T1,Advanced OS
+SL061,S01,Wed,15,theory,,T2,Neural Networks
+SL062,S01,Thu,8,theory,,T4,Web Technologies
+SL063,S01,Thu,10,theory,,T4,Web Technologies
+SL064,S01,Thu,13,theory,,T8,Mobile App Dev
+SL065,S01,Thu,14,theory,,T7,Security Engineering
+SL066,S01,Thu,16,theory,,T8,Mobile App Dev
+SL067,S01,Fri,8,theory,,T2,Artificial Intelligence
+SL068,S01,Fri,9,theory,,T4,Web Technologies
+SL069,S01,Fri,11,theory,,T4,Web Technologies
+SL070,S01,Fri,13,theory,,T2,Neural Networks
+SL071,S01,Fri,15,theory,,T5,Data Structures
+SL072,S01,Fri,16,theory,,T2,Neural Networks
+SL073,S02,Mon,8,theory,,T5,Algorithms & Complexity
+SL074,S02,Mon,10,theory,,T5,Algorithms & Complexity
+SL075,S02,Mon,14,theory,,T7,Security Engineering
+SL076,S02,Mon,15,theory,,T7,Security Engineering
+SL077,S02,Tue,8,theory,,T1,Computer Architecture
+SL078,S02,Tue,10,theory,,T8,Human Computer Interaction
+SL079,S02,Tue,11,theory,,T3,Database Systems
+SL080,S02,Tue,13,theory,,T4,Cloud Infrastructure
+SL081,S02,Tue,14,theory,,T3,Big Data Analytics
+SL082,S02,Tue,16,theory,,T2,Neural Networks
+SL083,S02,Wed,8,theory,,T8,Human Computer Interaction
+SL084,S02,Wed,10,theory,,T2,Artificial Intelligence
+SL085,S02,Wed,11,theory,,T4,Web Technologies
+SL086,S02,Wed,16,theory,,T2,Neural Networks
+SL087,S02,Thu,9,theory,,T8,Human Computer Interaction
+SL088,S02,Thu,14,theory,,T6,Distributed Systems
+SL089,S02,Thu,16,theory,,T6,Distributed Systems
+SL090,S02,Fri,8,theory,,T3,Database Systems
+SL091,S02,Fri,9,theory,,T5,Algorithms & Complexity
+SL092,S02,Fri,11,theory,,T7,Software Testing
+SL093,S02,Fri,16,theory,,T5,Data Structures
+SL094,S03,Mon,9,theory,,T1,Computer Architecture
+SL095,S03,Mon,10,theory,,T3,Database Systems
+SL096,S03,Mon,11,theory,,T2,Artificial Intelligence
+SL097,S03,Mon,16,theory,,T8,Mobile App Dev
+SL098,S03,Tue,8,theory,,T4,Web Technologies
+SL099,S03,Tue,9,theory,,T7,Software Testing
+SL100,S03,Tue,11,theory,,T7,Software Testing
+SL101,S03,Tue,14,theory,,T1,Advanced OS
+SL102,S03,Wed,9,theory,,T5,Algorithms & Complexity
+SL103,S03,Wed,10,theory,,T4,Web Technologies
+SL104,S03,Wed,14,theory,,T6,Distributed Systems
+SL105,S03,Wed,15,theory,,T3,Big Data Analytics
+SL106,S03,Thu,8,theory,,T6,Computer Networks
+SL107,S03,Thu,9,theory,,T7,Software Testing
+SL108,S03,Thu,15,theory,,T7,Security Engineering
+SL109,S03,Fri,9,theory,,T3,Database Systems
+SL110,S03,Fri,10,theory,,T3,Database Systems
+SL111,S03,Fri,13,theory,,T7,Security Engineering
+SL112,S03,Fri,14,theory,,T3,Big Data Analytics
+SL113,S04,Mon,10,theory,,T4,Web Technologies
+SL114,S04,Mon,11,theory,,T3,Database Systems
+SL115,S04,Tue,8,theory,,T6,Computer Networks
+SL116,S04,Tue,9,theory,,T3,Database Systems
+SL117,S04,Tue,10,theory,,T1,Computer Architecture
+SL118,S04,Tue,13,theory,,T2,Neural Networks
+SL119,S04,Tue,14,theory,,T8,Mobile App Dev
+SL120,S04,Tue,15,theory,,T1,Advanced OS
+SL121,S04,Wed,8,theory,,T6,Computer Networks
+SL122,S04,Wed,9,theory,,T4,Web Technologies
+SL123,S04,Wed,13,theory,,T2,Neural Networks
+SL124,S04,Wed,14,theory,,T1,Advanced OS
+SL125,S04,Thu,8,theory,,T1,Computer Architecture
+SL126,S04,Thu,9,theory,,T6,Computer Networks
+SL127,S04,Thu,10,theory,,T8,Human Computer Interaction
+SL128,S04,Thu,11,theory,,T5,Algorithms & Complexity
+SL129,S04,Thu,13,theory,,T4,Cloud Infrastructure
+SL130,S04,Fri,9,theory,,T2,Artificial Intelligence
+SL131,S04,Fri,10,theory,,T2,Artificial Intelligence
+SL132,S04,Fri,11,theory,,T8,Human Computer Interaction
+SL133,S04,Fri,13,theory,,T8,Mobile App Dev
+SL134,S04,Fri,16,theory,,T6,Distributed Systems
+SL135,S05,Mon,9,theory,,T3,Database Systems
+SL136,S05,Mon,10,theory,,T2,Artificial Intelligence
+SL137,S05,Mon,13,theory,,T4,Cloud Infrastructure
+SL138,S05,Mon,14,theory,,T3,Big Data Analytics
+SL139,S05,Mon,16,theory,,T6,Distributed Systems
+SL140,S05,Tue,11,theory,,T5,Algorithms & Complexity
+SL141,S05,Tue,14,theory,,T5,Data Structures
+SL142,S05,Tue,15,theory,,T5,Data Structures
+SL143,S05,Tue,16,theory,,T4,Cloud Infrastructure
+SL144,S05,Wed,8,theory,,T3,Database Systems
+SL145,S05,Wed,9,theory,,T7,Software Testing
+SL146,S05,Wed,10,theory,,T3,Database Systems
+SL147,S05,Wed,11,theory,,T8,Human Computer Interaction
+SL148,S05,Wed,13,theory,,T4,Cloud Infrastructure
+SL149,S05,Wed,16,theory,,T7,Security Engineering
+SL150,S05,Thu,9,theory,,T2,Artificial Intelligence
+SL151,S05,Thu,10,theory,,T5,Algorithms & Complexity
+SL152,S05,Thu,11,theory,,T4,Web Technologies
+SL153,S05,Thu,14,theory,,T5,Data Structures
+SL154,S05,Fri,8,theory,,T6,Computer Networks
+SL155,S05,Fri,13,theory,,T6,Distributed Systems
+SL156,S05,Fri,14,theory,,T5,Data Structures
+SL157,S06,Mon,8,theory,,T3,Database Systems
+SL158,S06,Mon,10,theory,,T6,Computer Networks
+SL159,S06,Mon,14,theory,,T1,Advanced OS
+SL160,S06,Tue,9,theory,,T2,Artificial Intelligence
+SL161,S06,Tue,10,theory,,T5,Algorithms & Complexity
+SL162,S06,Tue,11,theory,,T6,Computer Networks
+SL163,S06,Wed,9,theory,,T8,Human Computer Interaction
+SL164,S06,Wed,10,theory,,T7,Software Testing
+SL165,S06,Wed,13,theory,,T6,Distributed Systems
+SL166,S06,Wed,14,theory,,T4,Cloud Infrastructure
+SL167,S06,Wed,15,theory,,T4,Cloud Infrastructure
+SL168,S06,Thu,8,theory,,T2,Artificial Intelligence
+SL169,S06,Thu,10,theory,,T2,Artificial Intelligence
+SL170,S06,Thu,13,theory,,T1,Advanced OS
+SL171,S06,Thu,14,theory,,T3,Big Data Analytics
+SL172,S06,Fri,10,theory,,T5,Algorithms & Complexity
+SL173,S06,Fri,16,theory,,T7,Security Engineering
+SL174,S07,Mon,8,theory,,T6,Computer Networks
+SL175,S07,Mon,10,theory,,T7,Software Testing
+SL176,S07,Mon,11,theory,,T4,Web Technologies
+SL177,S07,Mon,13,theory,,T6,Distributed Systems
+SL178,S07,Mon,14,theory,,T2,Neural Networks
+SL179,S07,Tue,8,theory,,T8,Human Computer Interaction
+SL180,S07,Tue,9,theory,,T1,Computer Architecture
+SL181,S07,Tue,10,theory,,T6,Computer Networks
+SL182,S07,Tue,16,theory,,T1,Advanced OS
+SL183,S07,Wed,9,theory,,T3,Database Systems
+SL184,S07,Wed,10,theory,,T5,Algorithms & Complexity
+SL185,S07,Wed,13,theory,,T8,Mobile App Dev
+SL186,S07,Wed,14,theory,,T7,Security Engineering
+SL187,S07,Wed,16,theory,,T5,Data Structures
+SL188,S07,Thu,10,theory,,T3,Database Systems
+SL189,S07,Thu,11,theory,,T1,Computer Architecture
+SL190,S07,Thu,14,theory,,T2,Neural Networks
+SL191,S07,Thu,15,theory,,T1,Advanced OS
+SL192,S07,Fri,8,theory,,T1,Computer Architecture
+SL193,S07,Fri,9,theory,,T7,Software Testing
+SL194,S07,Fri,11,theory,,T3,Database Systems
+SL195,S07,Fri,15,theory,,T8,Mobile App Dev
+SL196,S07,Fri,16,theory,,T3,Big Data Analytics
+SL197,S08,Mon,9,theory,,T6,Computer Networks
+SL198,S08,Mon,11,theory,,T5,Algorithms & Complexity
+SL199,S08,Mon,14,theory,,T8,Mobile App Dev
+SL200,S08,Mon,15,theory,,T8,Mobile App Dev
+SL201,S08,Tue,8,theory,,T2,Artificial Intelligence
+SL202,S08,Tue,9,theory,,T4,Web Technologies
+SL203,S08,Tue,11,theory,,T8,Human Computer Interaction
+SL204,S08,Tue,13,theory,,T8,Mobile App Dev
+SL205,S08,Tue,15,theory,,T3,Big Data Analytics
+SL206,S08,Wed,8,theory,,T1,Computer Architecture
+SL207,S08,Wed,11,theory,,T5,Algorithms & Complexity
+SL208,S08,Wed,13,theory,,T7,Security Engineering
+SL209,S08,Wed,14,theory,,T5,Data Structures
+SL210,S08,Wed,16,theory,,T4,Cloud Infrastructure
+SL211,S08,Thu,10,theory,,T7,Software Testing
+SL212,S08,Thu,11,theory,,T8,Human Computer Interaction
+SL213,S08,Thu,13,theory,,T6,Distributed Systems
+SL214,S08,Thu,15,theory,,T6,Distributed Systems
+SL215,S08,Thu,16,theory,,T4,Cloud Infrastructure
+SL216,S08,Fri,10,theory,,T7,Software Testing
+SL217,S08,Fri,11,theory,,T6,Computer Networks
+SL218,S08,Fri,14,theory,,T4,Cloud Infrastructure
+SL219,S08,Fri,16,theory,,T1,Advanced OS
+SL220,S09,Mon,8,theory,,T4,Web Technologies
+SL221,S09,Mon,11,theory,,T6,Computer Networks
+SL222,S09,Mon,14,theory,,T4,Cloud Infrastructure
+SL223,S09,Tue,11,theory,,T4,Web Technologies
+SL224,S09,Tue,13,theory,,T1,Advanced OS
+SL225,S09,Tue,14,theory,,T2,Neural Networks
+SL226,S09,Tue,15,theory,,T6,Distributed Systems
+SL227,S09,Wed,10,theory,,T1,Computer Architecture
+SL228,S09,Wed,11,theory,,T6,Computer Networks
+SL229,S09,Wed,16,theory,,T6,Distributed Systems
+SL230,S09,Thu,8,theory,,T3,Database Systems
+SL231,S09,Thu,10,theory,,T1,Computer Architecture
+SL232,S09,Thu,13,theory,,T3,Big Data Analytics
+SL233,S09,Thu,15,theory,,T5,Data Structures
+SL234,S09,Fri,8,theory,,T7,Software Testing
+SL235,S09,Fri,9,theory,,T8,Human Computer Interaction
+SL236,S09,Fri,11,theory,,T1,Computer Architecture
+SL237,S09,Fri,14,theory,,T7,Security Engineering
+SL238,S09,Fri,15,theory,,T1,Advanced OS
+SL239,S10,Mon,8,theory,,T8,Human Computer Interaction
+SL240,S10,Mon,9,theory,,T2,Artificial Intelligence
+SL241,S10,Mon,11,theory,,T7,Software Testing
+SL242,S10,Mon,13,theory,,T5,Data Structures
+SL243,S10,Mon,14,theory,,T5,Data Structures
+SL244,S10,Tue,8,theory,,T5,Algorithms & Complexity
+SL245,S10,Tue,9,theory,,T6,Computer Networks
+SL246,S10,Tue,11,theory,,T2,Artificial Intelligence
+SL247,S10,Tue,13,theory,,T3,Big Data Analytics
+SL248,S10,Tue,15,theory,,T7,Security Engineering
+SL249,S10,Tue,16,theory,,T3,Big Data Analytics
+SL250,S10,Wed,9,theory,,T2,Artificial Intelligence
+SL251,S10,Wed,11,theory,,T3,Database Systems
+SL252,S10,Wed,14,theory,,T8,Mobile App Dev
+SL253,S10,Wed,15,theory,,T5,Data Structures
+SL254,S10,Thu,8,theory,,T5,Algorithms & Complexity
+SL255,S10,Thu,11,theory,,T7,Software Testing
+SL256,S10,Thu,13,theory,,T5,Data Structures
+SL257,S10,Thu,14,theory,,T8,Mobile App Dev
+SL258,S10,Thu,15,theory,,T3,Big Data Analytics
+SL259,S10,Thu,16,theory,,T2,Neural Networks
+SL260,S10,Fri,8,theory,,T4,Web Technologies
+SL261,S10,Fri,9,theory,,T6,Computer Networks
+SL262,S10,Fri,11,theory,,T2,Artificial Intelligence
+SL263,S10,Fri,13,theory,,T1,Advanced OS
+SL264,S10,Fri,14,theory,,T6,Distributed Systems
+SL265,S10,Fri,16,theory,,T8,Mobile App Dev

@@ -1,0 +1,19 @@
+{
+  "Move all Block B exams to Block C": {
+    "knock_on_effects": [
+      "Severe staircase congestion expected in Block C during 12:00 PM turnaround.",
+      "Elevator waiting time exceeds 14 minutes, delaying candidates with mobility requirements.",
+      "Nearby cafeteria and study halls subject to noise bleed over 72 dBA during exam hours.",
+      "Facilities staff overtime requirement increases by 35% due to expedited room turnaround."
+    ]
+  },
+  "Lab 3 is too crowded": {
+    "proposal": {
+      "slot_id": "SL001",
+      "new_day": "Tue",
+      "new_hour": 10,
+      "new_lab_id": "L6"
+    },
+    "reasoning": "Section S03 AI Systems Lab is scheduled in Lab L3 (capacity 58, section size 54). Student feedback notes crowding. Proposing Knuth Lab (L6, capacity 60) which is currently unreserved at Tuesday 10:00."
+  }
+}

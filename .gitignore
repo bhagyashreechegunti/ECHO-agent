@@ -1,0 +1,18 @@
+# Environment & security
+.env
+audit.log
+
+# Dynamic runtime files
+data/slots_live.csv
+data/requests.json
+data/*.db
+data/*.sqlite
+
+# Python & caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+
+data/users.csv
+

@@ -1,0 +1,10 @@
+lab_id,name,capacity
+L1,Turing Lab (Systems),60
+L2,Lovelace Lab (AI/ML),60
+L3,Hopper Lab (Networks),58
+L4,Von Neumann Lab (Robotics),60
+L5,Shannon Lab (Information),58
+L6,Knuth Lab (Open Practice),60
+L7,Ritchie Lab (Operating Systems),58
+L8,Berners-Lee Lab (Web Systems),50
+L9,Cerf Lab (Cybersecurity),48
